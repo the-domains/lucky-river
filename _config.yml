@@ -1,0 +1,28 @@
+name: Lucky River
+favicon: null
+layout_spectrum: 0.7838418865576386
+typography_spectrum: 0.14802688546478748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08875171816907823
+  lightness: 0.6808152992743999
+  saturation: 0.30857481551356614
+  rhythmicContrast: 0.565765886567533
+purpose: []
